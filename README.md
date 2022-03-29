@@ -1,6 +1,6 @@
 # Simulink-MAVLink
 **MAVLink communication support for Simulink**
-
+[![youtube](https://img.youtube.com/vi/93SpvPLL-_s/0.jpg)](https://www.youtube.com/watch?v=93SpvPLL-_s)
 ![Encode Image](Images/example_encode.PNG)
 ![Decode Image](Images/example_decode.PNG)
 ___
